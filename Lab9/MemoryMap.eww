@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\Lab10\Lab10r-fib\Lab10-fib.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Lab10\Lab10r-sum\Lab10r-sum.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
